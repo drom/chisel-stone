@@ -1,0 +1,5 @@
+project
+target
+*.fir
+*.v
+*.v.swp
